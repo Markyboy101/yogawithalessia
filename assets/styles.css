@@ -279,7 +279,7 @@
   @media (max-width:680px){
     .nav-desktop{display:none;}
     .nav-toggle{display:block;}
-    .hero{min-height:520px;background-position:50% 18%;}
+    .hero{min-height:520px;background-position:64% 18%;}
     .band{padding:50px 0;}
   }
 
